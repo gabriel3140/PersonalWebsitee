@@ -1,11 +1,12 @@
-Yamsuan - Simple Personal Website
+# Yamsuan - Simple Personal Website
 
-Features
-*Simple Web Design
-*Easy navigation of pages
-*Directing links to Social Media
-*Easy UX Design
+# Features 
+* Simple Web Design
+* Easy navigation of pages
+* Directing links to Social Media
+* Easy UX Design
 
+# Screenshots
 ![image](https://github.com/gabriel3140/PersonalWebsitee/assets/162997743/14433fca-a851-41dd-8633-6ef63995f3f2)
 ![image](https://github.com/gabriel3140/PersonalWebsitee/assets/162997743/b394b944-b62b-4a89-83c7-c75242a9cc8a)
 ![image](https://github.com/gabriel3140/PersonalWebsitee/assets/162997743/245bb3b1-a1a3-4a94-97c4-5f8c31168536)
